@@ -8,7 +8,10 @@
 
 <p align="center">
   <a href="https://eslamnabawy.github.io/Nabawy-s-Portfolio-/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20my%20work-0A66C2?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Open%20Live%20Showcase-0A66C2?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/EslamNabawy/Nabawy-s-Portfolio-">
+    <img src="https://img.shields.io/badge/Portfolio%20Repo-Source%20Code-181717?style=for-the-badge&logo=github" alt="Portfolio repository" />
   </a>
   <a href="https://github.com/EslamNabawy">
     <img src="https://img.shields.io/badge/GitHub-EslamNabawy-181717?style=for-the-badge&logo=github" alt="GitHub" />
@@ -26,11 +29,35 @@
 
 ---
 
-## Featured Portfolio
+## Portfolio Showcase
 
-**[eslamnabawy.github.io/Nabawy-s-Portfolio-](https://eslamnabawy.github.io/Nabawy-s-Portfolio-/)**
+<p align="center">
+  <a href="https://eslamnabawy.github.io/Nabawy-s-Portfolio-/">
+    <img src="https://img.shields.io/badge/View%20Live%20Portfolio-Open%20Showcase-0A66C2?style=for-the-badge" alt="View live portfolio" />
+  </a>
+  <a href="https://github.com/EslamNabawy/Nabawy-s-Portfolio-">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub%20Repository-181717?style=for-the-badge&logo=github" alt="Portfolio source code" />
+  </a>
+</p>
 
-My portfolio highlights production Flutter work, desktop builds, real-time systems, automation projects, and the engineering practices behind them.
+<p align="center">
+  <a href="https://eslamnabawy.github.io/Nabawy-s-Portfolio-/">
+    <img src="assets/portfolio-preview.png" alt="Preview of Eslam Nabawy portfolio website" width="100%" />
+  </a>
+</p>
+
+**Start here:** [eslamnabawy.github.io/Nabawy-s-Portfolio-](https://eslamnabawy.github.io/Nabawy-s-Portfolio-/)
+
+This is the best place to review my work. It presents the projects, technical decisions, and production engineering details behind my Flutter, desktop, real-time, and AI automation work.
+
+| What to review | What it demonstrates |
+| --- | --- |
+| **Brox** | Local-first Flutter desktop architecture, Windows release workflows, offline persistence, role-based operations, analytics, testing, and CI/CD. |
+| **Rain** | Cross-platform private communication with WebRTC messaging, file transfer, voice/video calls, Firebase signaling, Riverpod, and Drift. |
+| **AI Workflow Automation** | n8n pipelines integrating OpenAI, Claude, webhooks, REST APIs, conditional routing, notifications, and error-aware execution. |
+| **CampusSuit & So She Picks** | Firebase-backed mobile product features, onboarding, activity feeds, e-commerce flows, responsive UI, and maintainable BLoC architecture. |
+
+The portfolio itself is also a project: a Flutter admin dashboard plus an Astro static public site backed by Supabase and deployed with GitHub Pages workflows.
 
 ---
 
