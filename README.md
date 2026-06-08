@@ -13,6 +13,9 @@
   <a href="https://github.com/EslamNabawy/Nabawy-s-Portfolio-">
     <img src="https://img.shields.io/badge/Portfolio%20Repo-Source%20Code-181717?style=for-the-badge&logo=github" alt="Portfolio repository" />
   </a>
+  <a href="https://github.com/EslamNabawy/EslamNabawy/raw/main/assets/eslam-tarek-nabawy-resume-2026.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-00C853?style=for-the-badge&logo=readme&logoColor=white" alt="Download resume" />
+  </a>
   <a href="https://github.com/EslamNabawy">
     <img src="https://img.shields.io/badge/GitHub-EslamNabawy-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
@@ -163,6 +166,7 @@ Jun. 2020 - Oct. 2023
 ## Links
 
 - Portfolio: **[eslamnabawy.github.io/Nabawy-s-Portfolio-](https://eslamnabawy.github.io/Nabawy-s-Portfolio-/)**
+- Resume: **[Download PDF](https://github.com/EslamNabawy/EslamNabawy/raw/main/assets/eslam-tarek-nabawy-resume-2026.pdf)**
 - GitHub: **[github.com/EslamNabawy](https://github.com/EslamNabawy)**
 - LinkedIn: **[linkedin.com/in/eslam-tarek-nabawy](https://www.linkedin.com/in/eslam-tarek-nabawy/)**
 - Email: **[eslamtarek.dev@gmail.com](mailto:eslamtarek.dev@gmail.com)**
