@@ -2,22 +2,24 @@
 
 <p align="center">
   <strong>Flutter Software Engineer</strong><br>
-  Android and Windows apps, real-time communication systems, local-first tools, and AI automation.
+  I build cross-platform apps, local-first desktop systems, real-time communication tools, and AI automation workflows.
 </p>
 
 <p align="center">
   <a href="https://eslamnabawy.github.io/Nabawy-s-Portfolio-/"><strong>Portfolio</strong></a>
   ·
-  <a href="https://github.com/EslamNabawy/EslamNabawy/raw/main/assets/eslam-tarek-nabawy-resume-2026.pdf"><strong>Resume PDF</strong></a>
+  <a href="https://github.com/EslamNabawy/EslamNabawy/raw/main/assets/eslam-tarek-nabawy-resume-2026.pdf">Resume</a>
   ·
   <a href="https://www.linkedin.com/in/eslam-tarek-nabawy/">LinkedIn</a>
   ·
   <a href="mailto:eslamtarek.dev@gmail.com">Email</a>
+  ·
+  <a href="https://wa.me/201015683693">WhatsApp</a>
 </p>
 
 ---
 
-## Portfolio
+## Start Here
 
 <p align="center">
   <a href="https://eslamnabawy.github.io/Nabawy-s-Portfolio-/">
@@ -25,69 +27,75 @@
   </a>
 </p>
 
-**Live:** [eslamnabawy.github.io/Nabawy-s-Portfolio-](https://eslamnabawy.github.io/Nabawy-s-Portfolio-/)<br>
-**Source:** [github.com/EslamNabawy/Nabawy-s-Portfolio-](https://github.com/EslamNabawy/Nabawy-s-Portfolio-)
+<p align="center">
+  <a href="https://eslamnabawy.github.io/Nabawy-s-Portfolio-/"><strong>Open Portfolio</strong></a>
+  ·
+  <a href="https://github.com/EslamNabawy/Nabawy-s-Portfolio-">View Source</a>
+  ·
+  <a href="https://github.com/EslamNabawy/EslamNabawy/raw/main/assets/eslam-tarek-nabawy-resume-2026.pdf">Download Resume</a>
+</p>
 
-My portfolio is the best place to review my work. It shows production Flutter projects, desktop builds, real-time systems, AI automation workflows, and the engineering decisions behind them.
-
----
-
-## Selected Work
-
-**Brox**<br>
-Local-first Flutter desktop operations platform for Windows. Covers check-in/checkout, reservations, kitchen inventory, finance, staff management, memberships, analytics, RBAC, audit logs, backup/restore, diagnostics, release scripts, and CI/CD.
-
-**Rain**<br>
-Private P2P communication app for Android and Windows using Flutter, WebRTC, Firebase signaling, Riverpod, and Drift. Includes messaging, file transfer, voice/video calls, friendship gating, blocking, and connection recovery.
-
-**AI Workflow Automation**<br>
-n8n workflows integrating OpenAI, Claude, webhooks, REST APIs, conditional routing, smart notifications, and error-aware execution paths.
-
-**CampusSuit / So She Picks**<br>
-Firebase-backed mobile product features including onboarding, activity feeds, event management, e-commerce ordering, checkout, loyalty points, responsive UI, and BLoC architecture.
+The portfolio gives a project-first view of my work: live scope, technical decisions, shipped Flutter systems, and delivery practices.
 
 ---
 
-## Core Stack
+## What I Build
 
-**Languages:** Dart, JavaScript, Python, C++, Java, HTML, CSS
-
-**Flutter:** Android, Windows desktop, responsive UI, BLoC, Cubit, Riverpod, GoRouter, feature-based architecture
-
-**Data & Backend:** Firebase Auth, Firestore, Realtime Database, Firebase Storage, Remote Config, REST APIs, Drift, Hive, SQL, NoSQL
-
-**Real-Time & Automation:** WebRTC, P2P signaling, voice/video/data channels, n8n, OpenAI API, Claude API, webhooks, prompt engineering
-
-**Tools:** Git, GitHub, GitHub Actions, CI/CD, unit testing, Figma, Docker, AWS
-
----
-
-## Experience
-
-**Freelance Flutter Developer**<br>
-Self-Employed | Nov. 2022 - Present
-
-- Build Android and Windows applications end to end: architecture, UI, Firebase, REST APIs, local persistence, testing, and release artifacts.
-- Implement maintainable state management with BLoC, Cubit, and Riverpod.
-- Design AI automation workflows with n8n, OpenAI, Claude, webhooks, routing, and notifications.
-
-**Programming Instructor**<br>
-Local School & Private Sessions | Aug. 2023 - Oct. 2023
-
-- Taught programming fundamentals, OOP, data structures, algorithms, debugging, and clean implementation habits.
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Cross-platform Flutter apps</strong><br>
+      Android and Windows apps with clean architecture, responsive UI, Firebase, REST APIs, and maintainable state management.
+    </td>
+    <td width="50%">
+      <strong>Local-first desktop systems</strong><br>
+      Offline-capable Windows tools with local persistence, release workflows, diagnostics, tests, and CI/CD.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Real-time communication</strong><br>
+      WebRTC messaging, file transfer, voice/video calls, Firebase signaling, connection recovery, and access controls.
+    </td>
+    <td width="50%">
+      <strong>AI automation workflows</strong><br>
+      n8n pipelines using OpenAI, Claude, webhooks, routing logic, notifications, and error-aware execution.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Education
+## Featured Work
 
-**Bachelor of Science in Computer Science**<br>
-AEA Academy | Oct. 2020 - Jul. 2024
+| Project | Why it matters |
+| --- | --- |
+| **Brox** | Local-first Flutter desktop operations platform for Windows with inventory, finance, staff management, memberships, analytics, RBAC, backups, diagnostics, tests, and CI/CD. |
+| **Rain** | Private P2P communication app for Android and Windows using Flutter, WebRTC, Firebase signaling, Riverpod, and Drift. |
+| **AI Workflow Automation** | n8n workflows connecting OpenAI, Claude, REST APIs, webhooks, routing, smart notifications, and failure-aware execution paths. |
+| **CampusSuit / So She Picks** | Firebase-backed mobile product flows covering onboarding, activity feeds, events, e-commerce ordering, checkout, loyalty, and responsive UI. |
 
-**Flutter Lead, Google Developer Student Club**<br>
-AEA Academy | Oct. 2022 - Oct. 2023
+---
 
-**Core Team Member, ICPC Collegiate Programming**<br>
-Jun. 2020 - Oct. 2023
+## Engineering Strengths
+
+- Turning rough product ideas into usable shipped software.
+- Structuring Flutter codebases around features, clear state boundaries, and testable data flows.
+- Designing local persistence and offline behavior for desktop/mobile apps.
+- Integrating Firebase, REST APIs, WebRTC, and automation services without hiding complexity.
+- Keeping delivery practical: release artifacts, documentation, CI/CD, and maintainable project structure.
+
+---
+
+## Toolbox
+
+**Flutter:** Dart, Flutter Desktop, Android, BLoC, Cubit, Riverpod, GoRouter, responsive UI
+
+**Data:** Firebase Auth, Firestore, Realtime Database, Storage, Remote Config, Drift, Hive, SQL, NoSQL
+
+**Automation:** n8n, OpenAI API, Claude API, webhooks, REST APIs, prompt engineering
+
+**Delivery:** Git, GitHub, GitHub Actions, CI/CD, unit testing, Figma, Docker, AWS
 
 ---
 
@@ -95,8 +103,6 @@ Jun. 2020 - Oct. 2023
 
 - Portfolio: [eslamnabawy.github.io/Nabawy-s-Portfolio-](https://eslamnabawy.github.io/Nabawy-s-Portfolio-/)
 - Resume: [Download PDF](https://github.com/EslamNabawy/EslamNabawy/raw/main/assets/eslam-tarek-nabawy-resume-2026.pdf)
-- GitHub: [github.com/EslamNabawy](https://github.com/EslamNabawy)
 - LinkedIn: [linkedin.com/in/eslam-tarek-nabawy](https://www.linkedin.com/in/eslam-tarek-nabawy/)
 - Email: [eslamtarek.dev@gmail.com](mailto:eslamtarek.dev@gmail.com)
 - WhatsApp: [+20 101 568 3693](https://wa.me/201015683693)
-- Location: 6th October City, Egypt
