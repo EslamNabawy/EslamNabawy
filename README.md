@@ -35,7 +35,7 @@
   <a href="https://github.com/EslamNabawy/EslamNabawy/raw/main/assets/eslam-tarek-nabawy-resume-2026.pdf">Download Resume</a>
 </p>
 
-The portfolio gives a project-first view of my work: live scope, technical decisions, shipped Flutter systems, and delivery practices.
+The portfolio gives a visual overview of my work: product scope, technical decisions, shipped Flutter systems, and delivery practices.
 
 ---
 
@@ -66,14 +66,30 @@ The portfolio gives a project-first view of my work: live scope, technical decis
 
 ---
 
-## Featured Work
+## How I Work
 
-| Project | Why it matters |
-| --- | --- |
-| **Brox** | Local-first Flutter desktop operations platform for Windows with inventory, finance, staff management, memberships, analytics, RBAC, backups, diagnostics, tests, and CI/CD. |
-| **Rain** | Private P2P communication app for Android and Windows using Flutter, WebRTC, Firebase signaling, Riverpod, and Drift. |
-| **AI Workflow Automation** | n8n workflows connecting OpenAI, Claude, REST APIs, webhooks, routing, smart notifications, and failure-aware execution paths. |
-| **CampusSuit / So She Picks** | Firebase-backed mobile product flows covering onboarding, activity feeds, events, e-commerce ordering, checkout, loyalty, and responsive UI. |
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Product thinking</strong><br>
+      I focus on workflows, constraints, failure cases, and what the user actually needs to finish the job.
+    </td>
+    <td width="50%">
+      <strong>Clear architecture</strong><br>
+      I separate UI, state, data, routing, persistence, and integrations so the codebase can grow without becoming fragile.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>Reliable delivery</strong><br>
+      I care about tests, release artifacts, diagnostics, documentation, and GitHub Actions workflows.
+    </td>
+    <td width="50%">
+      <strong>Practical automation</strong><br>
+      I use AI and workflow tools where they remove repeated work, improve routing, or make operations easier to run.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -83,7 +99,7 @@ The portfolio gives a project-first view of my work: live scope, technical decis
 - Structuring Flutter codebases around features, clear state boundaries, and testable data flows.
 - Designing local persistence and offline behavior for desktop/mobile apps.
 - Integrating Firebase, REST APIs, WebRTC, and automation services without hiding complexity.
-- Keeping delivery practical: release artifacts, documentation, CI/CD, and maintainable project structure.
+- Keeping delivery practical: release artifacts, documentation, CI/CD, and maintainable codebase structure.
 
 ---
 
