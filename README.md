@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Flutter Software Engineer</strong><br>
-  I build cross-platform apps, local-first desktop systems, real-time communication tools, and AI automation workflows.
+  I turn product ideas into polished Flutter software that is fast, maintainable, and ready to ship.
 </p>
 
 <p align="center">
