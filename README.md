@@ -1,4 +1,4 @@
-## Start Here
+## Portfolio
 
 <p align="center">
   <a href="https://eslamnabawy.github.io/Nabawy-s-Portfolio-/">
@@ -22,10 +22,6 @@
   ·
   <a href="https://wa.me/201015683693">WhatsApp</a>
 </p>
-
-The portfolio gives a visual overview of my work: product scope, technical decisions, shipped Flutter systems, and delivery practices.
-
----
 
 ## What I Build
 
