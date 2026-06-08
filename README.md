@@ -1,4 +1,10 @@
-<h1 align="center">Eslam Tarek Nabawy</h1>
+## Start Here
+
+<p align="center">
+  <a href="https://eslamnabawy.github.io/Nabawy-s-Portfolio-/">
+    <img src="assets/portfolio-preview.png" alt="Portfolio website preview" width="100%" />
+  </a>
+</p>
 
 <p align="center">
   <strong>Flutter Software Engineer</strong><br>
@@ -15,24 +21,6 @@
   <a href="mailto:eslamtarek.dev@gmail.com">Email</a>
   ·
   <a href="https://wa.me/201015683693">WhatsApp</a>
-</p>
-
----
-
-## Start Here
-
-<p align="center">
-  <a href="https://eslamnabawy.github.io/Nabawy-s-Portfolio-/">
-    <img src="assets/portfolio-preview.png" alt="Preview of Eslam Nabawy portfolio website" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://eslamnabawy.github.io/Nabawy-s-Portfolio-/"><strong>Open Portfolio</strong></a>
-  ·
-  <a href="https://github.com/EslamNabawy/Nabawy-s-Portfolio-">View Source</a>
-  ·
-  <a href="https://github.com/EslamNabawy/EslamNabawy/raw/main/assets/eslam-tarek-nabawy-resume-2026.pdf">Download Resume</a>
 </p>
 
 The portfolio gives a visual overview of my work: product scope, technical decisions, shipped Flutter systems, and delivery practices.
